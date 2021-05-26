@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there I am cperezcapote 👋
 
 <!--
 **cperezcapote/cperezcapote** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -15,6 +15,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-[![cperezcapote's github stats](https://github-readme-stats.vercel.app/api?username=cperezcapote&show_icons=true)](https://github.com/cperezcapote/cperezcapote)
+[![cperezcapote's github stats](https://github-readme-stats.vercel.app/api?username=cperezcapote&count_private=true&theme=react)](https://github.com/cperezcapote/cperezcapote)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cperezcapote&layout=compact)](https://github.com/cperezcapote/cperezcapote)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cperezcapote&layout=compact&text_color=daf7dc&bg_color=151515)](https://github.com/cperezcapote/cperezcapote)
