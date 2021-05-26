@@ -17,4 +17,4 @@ Here are some ideas to get you started:
 
 [![cperezcapote's github stats](https://github-readme-stats.vercel.app/api?username=cperezcapote&count_private=true&theme=react)](https://github.com/cperezcapote/cperezcapote)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cperezcapote&layout=compact&text_color=daf7dc&bg_color=151515)](https://github.com/cperezcapote/cperezcapote)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cperezcapote&layout=compact&count_private=true&theme=react&text_color=daf7dc&bg_color=151515)](https://github.com/cperezcapote/cperezcapote)
